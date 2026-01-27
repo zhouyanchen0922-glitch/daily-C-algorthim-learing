@@ -43,7 +43,7 @@ public:
 };
 
 
-//方法二：随机快拍plus
+//方法二：随机快排plus
 class Solution {
 public:
     int first,last;   //在类里面定义全局变量，方便后序递归的调用
